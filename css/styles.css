@@ -1,0 +1,94 @@
+/* Week 3 - Patrick Adams - MiU 1207 */
+
+.content {
+	background-image: url('../images/pattern.png');
+}
+
+h1 {
+    color: #ffffff;
+    font-family: "Lucida Sans", Helvetica;
+    font-size: 26px;
+}
+
+h2 {
+  color: #3a4854;
+  font-family: "Lucida Sans", Helvetica;
+  text-align: center;
+  padding-top: -5px;
+  margin-top: 2px;
+}
+
+h4 {
+  font-family: Helvetica;
+  color: #15506f;
+  text-align: center;
+  margin-top: -10px;
+}
+
+legend {
+  color: #000000;
+  font-family: Helvetica;  
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+span {
+  margin-left: 6px;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 15px;
+}
+
+nav {
+  text-align: center;
+}
+
+.error-message {
+	margin-top: -10px;
+	margin-bottom: 10px;
+	color: red;
+}
+
+a {
+  font-family: helvetica;
+}
+
+img.additem {
+  padding-bottom: 15px;
+}
+
+div.fieldset1 {
+  margin-bottom: 20px;
+}
+
+div.fieldset2 {
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.angbutton {
+	margin-bottom: 20px; 
+}
+
+.cglbutton {
+	margin-top: -5px;
+	margin-bottom: 20px;
+}
+
+.CTA {
+	margin-top: -30px;
+	margin-bottom: -15px;
+}
+
+.cta2 {
+	margin-left: 90px;
+}
